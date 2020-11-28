@@ -1175,6 +1175,24 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .bg-atlanta-20made-20sign {
+        background-image: none;
+    }
+
+    .bgc-dark-slate-blue {
+        background-color: #F3976C;
+    }
+
+    .tc-white {
+        color: black !important;
+    }
+
+    #bloc-8 a,
+    #bloc-8 h2,
+    #bloc-8 strong {
+        color: black !important;
+    }
 }
 
 @media (max-width: 767px) {
